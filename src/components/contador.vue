@@ -1,6 +1,6 @@
 <template>
 <h1>Hola Mundo</h1>
-<p> {{contador}} </p>
+<p> {{ontador}} </p> 
 <button @click="incrementar">Incrementar</button>
 <button @click="decrementar">Decrementar</button>
 </template>
